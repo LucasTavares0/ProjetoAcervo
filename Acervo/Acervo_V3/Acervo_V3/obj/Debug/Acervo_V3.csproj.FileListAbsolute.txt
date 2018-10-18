@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Acervo_V3\Acervo_V3\bin\Debug\Acervo_V3.exe.config
+C:\Users\Administrator\source\repos\Acervo_V3\Acervo_V3\bin\Debug\Acervo_V3.exe
+C:\Users\Administrator\source\repos\Acervo_V3\Acervo_V3\bin\Debug\Acervo_V3.pdb
+C:\Users\Administrator\source\repos\Acervo_V3\Acervo_V3\obj\Debug\Acervo_V3.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Acervo_V3\Acervo_V3\obj\Debug\Acervo_V3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Acervo_V3\Acervo_V3\obj\Debug\Acervo_V3.exe
+C:\Users\Administrator\source\repos\Acervo_V3\Acervo_V3\obj\Debug\Acervo_V3.pdb
+C:\Users\Administrator\Desktop\Projetos EDII\Acervo\Acervo_V3\Acervo_V3\bin\Debug\Acervo_V3.exe.config
+C:\Users\Administrator\Desktop\Projetos EDII\Acervo\Acervo_V3\Acervo_V3\bin\Debug\Acervo_V3.exe
+C:\Users\Administrator\Desktop\Projetos EDII\Acervo\Acervo_V3\Acervo_V3\bin\Debug\Acervo_V3.pdb
+C:\Users\Administrator\Desktop\Projetos EDII\Acervo\Acervo_V3\Acervo_V3\obj\Debug\Acervo_V3.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Projetos EDII\Acervo\Acervo_V3\Acervo_V3\obj\Debug\Acervo_V3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Projetos EDII\Acervo\Acervo_V3\Acervo_V3\obj\Debug\Acervo_V3.exe
+C:\Users\Administrator\Desktop\Projetos EDII\Acervo\Acervo_V3\Acervo_V3\obj\Debug\Acervo_V3.pdb
